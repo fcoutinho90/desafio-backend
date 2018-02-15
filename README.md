@@ -34,4 +34,4 @@ Considere uma classificação com uma assertividade de no mínimo 70%, e guarde 
 - Performance
     
 ### Como entregar seu desafio
-- Faça um Fork desse projeto, desenvolva seu conteúdo e preencha esse formulário[link google form]
+- Faça um Fork desse projeto, desenvolva seu conteúdo e informe no formulário (https://goo.gl/forms/5wXTDLI6JwzzvOEg2) o link do seu repositório
